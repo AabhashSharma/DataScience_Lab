@@ -2,4 +2,6 @@
 
 [Lab 1](Lab1/README.md) <br />
 [Lab 2](LAb2/README.md) <br />
-[Lab 3](Lab3/README.md)
+[Lab 3](Lab3/README.md) <br />
+[Lab 4](Lab4/README.md) <br />
+
